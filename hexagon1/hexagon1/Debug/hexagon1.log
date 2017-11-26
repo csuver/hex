@@ -1,0 +1,43 @@
+﻿Build started 11/20/2017 9:18:57 PM.
+     1>Project "F:\src\machine\hexagon1\hexagon1\hexagon1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /showIncludes /analyze- /errorReport:prompt hexagon1.c
+         hexagon1.c
+         Note: including file: f:\src\machine\hexagon1\hexagon1\hex.h
+         Note: including file:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+         Note: including file:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt.h
+         Note: including file:    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+         Note: including file:     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h
+         Note: including file:      C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ConcurrencySal.h
+         Note: including file:     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vadefs.h
+         Note: including file:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_malloc.h
+         Note: including file:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_search.h
+         Note: including file:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h
+         Note: including file:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+         Note: including file:   C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\limits.h
+         Note: including file:    C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+         Note: including file:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+         Note: including file:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+         Note: including file:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_stdio_config.h
+         Note: including file:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\memory.h
+         Note: including file:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memory.h
+         Note: including file:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memcpy_s.h
+         Note: including file:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\errno.h
+         Note: including file:     C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_string.h
+         Note: including file:      C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+         Note: including file:  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h
+         Note: including file:   C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+         Note: including file:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h
+         Note: including file:  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\assert.h
+         Note: including file:  f:\src\machine\hexagon1\hexagon1\hexlist.h
+         Note: including file:  f:\src\machine\hexagon1\hexagon1\hexgraph.h
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\src\machine\hexagon1\Debug\hexagon1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\src\machine\hexagon1\Debug\hexagon1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\src\machine\hexagon1\Debug\hexagon1.lib" /MACHINE:X86 Debug\hexagon1.obj
+         Debug\hexgraph.obj
+         Debug\hexlist.obj
+         hexagon1.vcxproj -> F:\src\machine\hexagon1\Debug\hexagon1.exe
+     1>Done Building Project "F:\src\machine\hexagon1\hexagon1\hexagon1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.36
